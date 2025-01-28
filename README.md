@@ -1,2 +1,5 @@
-# spotify2mp3
-spotify to mp3
+# Spotify to MP3 Downloader
+
+```sh
+pip install yt-dlp spotipy
+```
